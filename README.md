@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hopegaju
-- 👀 I’m interested in frontend
+- 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
